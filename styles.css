@@ -158,12 +158,11 @@ header {
     flex: 1;
   }
 
-@media (max-width: 600px) {
-  section {
-    flex-direction: column;
-  }
-}
-
+@media screen and (max-width: 768px) {
+      .container {
+        padding: 10px;
+      }
+    }
   
 
 
