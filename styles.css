@@ -24,6 +24,10 @@ body {
     height: 300px;
     
   }
+
+header {
+  padding: 5vh; 
+}
   
   .header-text {
     position: absolute;
