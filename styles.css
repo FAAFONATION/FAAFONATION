@@ -1,0 +1,161 @@
+/* Styles */
+
+body {
+    background-color: #333333;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2 {
+    text-align: center;  
+  }
+  
+  .logo-container {
+    text-align: center;
+    
+        position: absolute;
+        top: 200px;
+        left: 200px;
+      
+  }
+  
+  .logo {
+    width: 300px;
+    height: 300px;
+    
+  }
+  
+  .header-text {
+    position: absolute;
+        top: 400px;
+        left: 1500px;
+  }
+
+  .number {
+    position: absolute;
+        top: 430px;
+        left: 1495px;
+  }
+
+  .call {
+    position: absolute;
+        top: 470px;
+        left: 1400px;
+
+  }
+  
+  section {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  
+  img {
+    width: 200px;
+    border-radius: 10px;
+  }
+
+  .footer-container {
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 20px;
+  }
+
+  #web-design {
+    width: 80%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+    display: flex; 
+    align-items: center;
+    background: linear-gradient(to right, black, #36486b);
+  }
+  
+  #web-design img {
+    margin-right: 20px; 
+  }
+
+  #seo {
+    width: 100%;
+    height: 200px;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+    display: flex; 
+    align-items: center;
+    background: linear-gradient(to right, black,  #4040a1);
+  }
+
+  #seo2 {
+    height: 100px;
+    width: 300px;
+  }
+  
+  #seo img {
+    margin-right: 20px; 
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .container {
+    margin-bottom: 10px;
+  }
+  
+  
+
+  #responsive-design {
+    width: 80%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+    display: flex; 
+    align-items: center;
+    background: linear-gradient(to right, black,  #618685);
+  }
+  
+  #responsive-design img {
+    margin-right: 20px; 
+  }
+  
+  #responsive-design h2,
+  #responsive-design p {
+    flex: 1;
+  }
+
+  #maintenance {
+    width: 80%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+    display: flex; 
+    align-items: center;
+    background: linear-gradient(to right, black,  #50394c);
+  }
+  
+  #maintenance img {
+    margin-right: 20px; 
+  }
+  
+  #maintenance h2,
+  #maintenance p {
+    flex: 1;
+  }
+
+  
+
+
+
+  
